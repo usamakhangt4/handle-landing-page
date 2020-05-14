@@ -1,0 +1,25 @@
+{
+  "name": "handle-landing-page",
+  "version": "1.0.0",
+  "description": "![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss styles/tailwind.css -o styles/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamakhangt4/handle-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usamakhangt4/handle-landing-page/issues"
+  },
+  "homepage": "https://github.com/usamakhangt4/handle-landing-page#readme",
+  "dependencies": {
+    "autoprefixer": "^9.7.6",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  }
+}
