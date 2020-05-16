@@ -8,6 +8,9 @@ module.exports = {
         "Very Dark Cyan": "hsl(192, 100%, 9%)",
         "Grayish Blue": "hsl(208, 11%, 55%)",
       },
+      fontFamily: {
+        Poppins: ['Poppins', 'sans-serif'],
+      },
     },
   },
   variants: {},
