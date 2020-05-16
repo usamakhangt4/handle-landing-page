@@ -595,6 +595,12 @@ video {
   height: auto;
 }
 
+/* all imports go here */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
 .container {
   width: 100%;
 }
@@ -6063,6 +6069,14 @@ video {
 
 .font-mono {
   font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.font-Poppins {
+  font-family: Poppins, sans-serif;
+}
+
+.font-OpenSans {
+  font-family: Open Sans, sans-serif;
 }
 
 .font-hairline {
@@ -24483,6 +24497,14 @@ video {
 
   .sm\:font-mono {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .sm\:font-Poppins {
+    font-family: Poppins, sans-serif;
+  }
+
+  .sm\:font-OpenSans {
+    font-family: Open Sans, sans-serif;
   }
 
   .sm\:font-hairline {
@@ -42906,6 +42928,14 @@ video {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .md\:font-Poppins {
+    font-family: Poppins, sans-serif;
+  }
+
+  .md\:font-OpenSans {
+    font-family: Open Sans, sans-serif;
+  }
+
   .md\:font-hairline {
     font-weight: 100;
   }
@@ -61327,6 +61357,14 @@ video {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .lg\:font-Poppins {
+    font-family: Poppins, sans-serif;
+  }
+
+  .lg\:font-OpenSans {
+    font-family: Open Sans, sans-serif;
+  }
+
   .lg\:font-hairline {
     font-weight: 100;
   }
@@ -79746,6 +79784,14 @@ video {
 
   .xl\:font-mono {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .xl\:font-Poppins {
+    font-family: Poppins, sans-serif;
+  }
+
+  .xl\:font-OpenSans {
+    font-family: Open Sans, sans-serif;
   }
 
   .xl\:font-hairline {

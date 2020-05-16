@@ -9,7 +9,8 @@ module.exports = {
         "Grayish Blue": "hsl(208, 11%, 55%)",
       },
       fontFamily: {
-        Poppins: ['Poppins', 'sans-serif'],
+        Poppins: ["Poppins", "sans-serif"],
+        OpenSans: ['Open Sans', 'sans-serif'],
       },
     },
   },
